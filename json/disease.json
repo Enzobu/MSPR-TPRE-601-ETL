@@ -1,0 +1,18 @@
+{
+    "covid": {
+        "id": 1,
+        "isPandemic": true
+    },
+    "h1n1": {
+        "id": 2,
+        "isPandemic": true
+    },
+    "sars": {
+        "id": 3,
+        "isPandemic": false
+    },
+    "monkeypox": {
+        "id": 4,
+        "isPandemic": false
+    }
+}

@@ -1,0 +1,6 @@
+*.pylintrc
+*.db.sql
+/data_files/
+*/predictions/*
+*/models/*
+*/plots/*

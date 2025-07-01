@@ -1,0 +1,38 @@
+[
+    {
+        "name": "arid",
+        "description": "Climat désertique ou semi-désertique, avec des températures élevées et des précipitations très faibles."
+    },
+    {
+        "name": "continental",
+        "description": "Climat caractérisé par des hivers froids et des étés chauds, souvent avec de grandes variations de température."
+    },
+    {
+        "name": "mediterranean",
+        "description": "Climat avec des étés chauds et secs et des hivers doux et pluvieux, typique des régions autour de la mer Méditerranée."
+    },
+    {
+        "name": "tropical",
+        "description": "Climat chaud et humide, avec des températures élevées toute l'année et des précipitations abondantes, souvent sous forme de pluies saisonnières."
+    },
+    {
+        "name": "equatorial",
+        "description": "Climat chaud et humide, avec des températures constantes tout au long de l'année et des précipitations abondantes."
+    },
+    {
+        "name": "oceanic",
+        "description": "Climat influencé par l'océan, avec des températures modérées et des précipitations régulières tout au long de l'année."
+    },
+    {
+        "name": "polar",
+        "description": "Climat extrêmement froid, avec des températures très basses, surtout en hiver."
+    },
+    {
+        "name": "subtropical",
+        "description": "Climat chaud et humide, mais plus modéré que le climat tropical, avec des hivers doux et des étés chauds."
+    },
+    {
+        "name": "monsoon",
+        "description": "Climat caractérisé par une saison des pluies intense, suivie de périodes sèches, typique des régions influencées par les moussons."
+    }
+]
