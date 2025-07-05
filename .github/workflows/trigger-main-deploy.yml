@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Trigger deployment CI
       run: |
-        curl -X POST https://api.github.com/repos/ton-org/MSPR-TPRE-601/dispatches \
+        curl -X POST https://api.github.com/repos/Enzobu/MSPR-TPRE-601/dispatches \
           -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.DEPLOY_TRIGGER_TOKEN }}" \
           -d '{"event_type": "trigger-deploy"}'
